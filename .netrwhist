@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/etc/conky/Orore/script'
+let g:netrw_dirhist_2='/etc/conky/Orore'
+let g:netrw_dirhist_3='/etc/conky/Orore/script'
+let g:netrw_dirhist_4='/home/panteleev/.vim'
+let g:netrw_dirhist_5='/home/panteleev'
+let g:netrw_dirhist_6='/home/panteleev/.vim'
+let g:netrw_dirhist_7='/home/imbicile/.conky'
+let g:netrw_dirhist_8='/home/.conky/status'
